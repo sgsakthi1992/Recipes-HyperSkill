@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="Recipes.Topics-Custom_threads-Statements.test" />
+        <module name="Recipes.Topics-LocalDateTime-Add_11_hours_and_print_the_date.test" />
+        <module name="Recipes.Topics-Exception_handling-@ResponseStatus_annotation.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-classes-java.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-test-results.main" />
+        <module name="Recipes.Topics-Package-Getting_input.main" />
+        <module name="Recipes.Topics-Package-Theory.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-generated-sources-headers-java.test" />
+        <module name="Recipes.Topics-LocalDate-2_weeks_after.test" />
+        <module name="Recipes.Topics-LocalTime-Theory.test" />
+        <module name="Recipes.Topics-Standard_functional_interfaces-An_infinite_numbers_supplier.main" />
+        <module name="Recipes.Topics-Anonymous_classes-String_reverser.main" />
+        <module name="Recipes.Topics-Builder-Builder.test" />
+        <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads.main" />
+        <module name="Recipes.Topics-Custom_threads-Statements_about_starting_threads.main" />
+        <module name="Recipes.Topics-LocalTime-Seconds_since_start_of_a_day.main" />
+        <module name="Recipes.Topics-Generic_methods-Check_for_null.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-generated-sources-headers-java.test" />
+        <module name="Recipes.Topics-LocalTime-Same_time.test" />
+        <module name="Recipes.Topics-Optional-The_address_book.test" />
+        <module name="Recipes.Topics-The_Map_interface-Counting_words.test" />
+        <module name="Recipes.util.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-reports-tests.main" />
+        <module name="Recipes.Topics-LocalDate-2_weeks_after.main" />
+        <module name="Recipes.Topics-LocalTime-Seconds_since_start_of_a_day.test" />
+        <module name="Recipes.Topics-LocalTime-LocalTime_constants.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-generated-sources-headers-java.main" />
+        <module name="Recipes.Topics-LocalTime-Same_time.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Recipes.Topics-Custom_threads-Starting_runnables.main" />
+        <module name="Recipes.Topics-LocalTime-Theory.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Theory.main" />
+        <module name="Recipes.Recipes-task-build-reports-tests.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-src.test" />
+        <module name="Recipes.Topics-Exception_handling-@ResponseStatus_annotation.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-classes-java.test" />
+        <module name="Recipes.util.test" />
+        <module name="Recipes.Topics-Builder-Subway_Sandwich.main" />
+        <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads.test" />
+        <module name="Recipes.Topics-Builder-Theory.main" />
+        <module name="Recipes.Topics-LocalTime-Working_with_time.main" />
+        <module name="Recipes.Topics-The_Map_interface-Kidnapper_of_Ice_cream.main" />
+        <module name="Recipes.Recipes-task-build-reports-tests.test" />
+        <module name="Recipes.Topics-Custom_threads-Theory.test" />
+        <module name="Recipes.Topics-The_Map_interface-Counting_words.main" />
+        <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Recipes.Topics-Default_methods-Add_new_default_method.main" />
+        <module name="Recipes.Topics-Optional-Create_an_Optional_value.test" />
+        <module name="Recipes.Topics-Standard_functional_interfaces-An_infinite_numbers_supplier.test" />
+        <module name="Recipes.Topics-The_Map_interface-Modifying_a_map.test" />
+        <module name="Recipes.Topics-Custom_threads-Numbers_filter.test" />
+        <module name="Recipes.Topics-LocalTime-LocalTime_constants.test" />
+        <module name="Recipes.Topics-Default_methods-Resolve_a_diamond_problem.main" />
+        <module name="Recipes.Topics-The_Map_interface-Tricky_sub-maps.main" />
+        <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Multiple_swaps.test" />
+        <module name="Recipes.Topics-HashMap-The_same_pairs.test" />
+        <module name="Recipes.Topics-Anonymous_classes-What_about_context.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Multiple_swaps.main" />
+        <module name="Recipes.Topics-Default_methods-Theory.test" />
+        <module name="Recipes.Topics-Package-Theory.test" />
+        <module name="Recipes.Topics-Optional-Check_an_Optional_value.test" />
+        <module name="Recipes.Topics-Optional-Sum_up_optional_values.test" />
+        <module name="Recipes.Topics-Package-Getting_input.test" />
+        <module name="Recipes.Recipes-task.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-headers-java.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-reports-tests.test" />
+        <module name="Recipes.Topics-Custom_threads-Possible_order_of_the_output_strings.main" />
+        <module name="Recipes.Topics-HashMap-Theory.test" />
+        <module name="Recipes.Topics-toString__-Theory.test" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes.main" />
+        <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Recipes.Topics-Anonymous_classes-What_about_context.test" />
+        <module name="Recipes.Topics-Default_methods-Theory.main" />
+        <module name="Recipes.Topics-Optional-Sum_up_optional_values.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-reports-tests.test" />
+        <module name="Recipes.Topics-The_Map_interface-Tricky_sub-maps.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Theory.test" />
+        <module name="Recipes.Topics-Thread_synchronization-Theory.test" />
+        <module name="Recipes.Topics-Builder-Builder.main" />
+        <module name="Recipes.Topics-Custom_threads-Theory.main" />
+        <module name="Recipes.Topics-HashMap-The_same_pairs.main" />
+        <module name="Recipes.Topics-Builder-Theory.test" />
+        <module name="Recipes.Topics-Default_methods-Resolve_a_diamond_problem.test" />
+        <module name="Recipes.Topics-Custom_threads-Message_notifier_as_a_thread.test" />
+        <module name="Recipes.Topics-Package-Binary_search.main" />
+        <module name="Recipes.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.test" />
+        <module name="Recipes.Topics-Custom_threads-Possible_order_of_the_output_strings.test" />
+        <module name="Recipes.Topics-Optional-Check_an_Optional_value.main" />
+        <module name="Recipes.Topics-Default_methods-Add_new_default_method.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-reports-tests.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters.test" />
+        <module name="Recipes.Recipes-task-build-classes-java.test" />
+        <module name="Recipes.Topics-The_Map_interface-Modifying_a_map.main" />
+        <module name="Recipes.Topics-LocalDateTime-Theory.test" />
+        <module name="Recipes.Recipes-task-build-tmp.main" />
+        <module name="Recipes.Topics-LocalTime-Working_with_time.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-headers-java.test" />
+        <module name="Recipes.Topics-The_Map_interface-Kidnapper_of_Ice_cream.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-tmp.main" />
+        <module name="Recipes.Recipes-task.main" />
+        <module name="Recipes.Topics-LocalTime-Return_time_without_seconds.test" />
+        <module name="Recipes.Topics-Exception_handling-Theory.test" />
+        <module name="Recipes.Recipes-task-build-test-results.test" />
+        <module name="Recipes.Topics-Optional-Create_an_Optional_value.main" />
+        <module name="Recipes.Topics-Thread_management-Theory.test" />
+        <module name="Recipes.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-classes-java.main" />
+        <module name="Recipes.Topics-Builder-Disadvantage_of_Builder_pattern.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program.test" />
+        <module name="Recipes.Topics-Thread_synchronization-Theory.main" />
+        <module name="Recipes.Topics-Standard_functional_interfaces-Ternary_operator.test" />
+        <module name="Recipes.Topics-Package-Binary_search.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info.main" />
+        <module name="Recipes.Topics-LocalDate-Theory.main" />
+        <module name="Recipes.Topics-HashMap-Theory.main" />
+        <module name="Recipes.Topics-Thread_management-Theory.main" />
+        <module name="Recipes.Topics-toString__-Theory.main" />
+        <module name="Recipes.Topics-Generic_methods-Theory.main" />
+        <module name="Recipes.Topics-Exception_handling-Theory.main" />
+        <module name="Recipes.Topics-Custom_threads-Numbers_filter.main" />
+        <module name="Recipes.Recipes-task-build-test-results.main" />
+        <module name="Recipes.Topics-LocalDateTime-Theory.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-tmp.test" />
+        <module name="Recipes.Topics-Custom_threads-Statements_about_starting_threads.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-src.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-tmp.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Non-existing_methods.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-test-results.test" />
+        <module name="Recipes.Topics-LocalDate-Theory.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-out.test" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-classes-java.test" />
+        <module name="Recipes.Recipes-task-build-tmp.test" />
+        <module name="Recipes.Topics-Custom_threads-Starting_runnables.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.test" />
+        <module name="Recipes.Topics-toString__-Users_as_strings.test" />
+        <module name="Recipes.Topics-Builder-Robot_Builder.test" />
+        <module name="Recipes.Topics-Anonymous_classes-Theory.test" />
+        <module name="Recipes.Topics-Builder-Disadvantage_of_Builder_pattern.main" />
+        <module name="Recipes.Topics-Anonymous_classes-String_reverser.test" />
+        <module name="Recipes.Topics-Generic_methods-Theory.test" />
+        <module name="Recipes.Topics-Custom_threads-Message_notifier_as_a_thread.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Recipes.Topics-LocalDateTime-Add_11_hours_and_print_the_date.main" />
+        <module name="Recipes.Topics-Standard_functional_interfaces-Theory.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Recipes.Topics-Generic_methods-Invert_an_array.test" />
+        <module name="Recipes.Topics-Builder-Subway_Sandwich.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Theory.test" />
+        <module name="Recipes.Topics-Optional-Theory.main" />
+        <module name="Recipes.Topics-The_Map_interface-Theory.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-tmp.main" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-test-results.test" />
+        <module name="Recipes.Recipes-task-build-classes-java.main" />
+        <module name="Recipes.Topics-Anonymous_classes-Theory.main" />
+        <module name="Recipes.Topics-Optional-Theory.test" />
+        <module name="Recipes.Topics-Exception_handling-Improve_the_program-out.main" />
+        <module name="Recipes.Topics-Thread_synchronization-Thread-safe_account.test" />
+        <module name="Recipes.Topics-Threads_as_objects-Theory.main" />
+        <module name="Recipes.Topics-Builder-Robot_Builder.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Non-existing_methods.test" />
+        <module name="Recipes.Topics-Generic_methods-Check_for_null.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-generated-sources-headers-java.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters.main" />
+        <module name="Recipes.Topics-LocalTime-Return_time_without_seconds.main" />
+        <module name="Recipes.Topics-The_Map_interface-Theory.test" />
+        <module name="Recipes.Topics-Thread_synchronization-Thread-safe_account.main" />
+        <module name="Recipes.Topics-Standard_functional_interfaces-Ternary_operator.main" />
+        <module name="Recipes.Topics-Custom_threads-Statements.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-test-results.main" />
+        <module name="Recipes.Topics-Standard_functional_interfaces-Theory.test" />
+        <module name="Recipes.Topics-Optional-The_address_book.main" />
+        <module name="Recipes.Topics-toString__-Users_as_strings.main" />
+        <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Recipes.Topics-Generic_methods-Invert_an_array.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="Recipes.Recipes-task-build-classes-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-reports-tests.main" target="11" />
+      <module name="Recipes.Recipes-task-build-test-results.main" target="11" />
+      <module name="Recipes.Recipes-task-build-tmp.main" target="11" />
+      <module name="Recipes.Recipes-task.main" target="11" />
+      <module name="Recipes.Topics-Anonymous_classes-String_reverser.main" target="11" />
+      <module name="Recipes.Topics-Anonymous_classes-Theory.main" target="11" />
+      <module name="Recipes.Topics-Anonymous_classes-What_about_context.main" target="11" />
+      <module name="Recipes.Topics-Builder-Builder.main" target="11" />
+      <module name="Recipes.Topics-Builder-Disadvantage_of_Builder_pattern.main" target="11" />
+      <module name="Recipes.Topics-Builder-Robot_Builder.main" target="11" />
+      <module name="Recipes.Topics-Builder-Subway_Sandwich.main" target="11" />
+      <module name="Recipes.Topics-Builder-Theory.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Message_notifier_as_a_thread.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Numbers_filter.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Possible_order_of_the_output_strings.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Starting_runnables.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Statements.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Statements_about_starting_threads.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="Recipes.Topics-Custom_threads-Writing_a_thread_for_printing_numbers.main" target="11" />
+      <module name="Recipes.Topics-Default_methods-Add_new_default_method.main" target="11" />
+      <module name="Recipes.Topics-Default_methods-Resolve_a_diamond_problem.main" target="11" />
+      <module name="Recipes.Topics-Default_methods-Theory.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-@ResponseStatus_annotation.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-classes-java.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-generated-sources-headers-java.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-reports-tests.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-test-results.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Four_status_codes-build-tmp.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Four_status_codes.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-classes-java.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-generated-sources-headers-java.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-reports-tests.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-test-results.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Improve_the_program-build-tmp.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Improve_the_program-out.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Improve_the_program-src.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Improve_the_program.main" target="11" />
+      <module name="Recipes.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Recipes.Topics-Generic_methods-Check_for_null.main" target="11" />
+      <module name="Recipes.Topics-Generic_methods-Invert_an_array.main" target="11" />
+      <module name="Recipes.Topics-Generic_methods-Theory.main" target="11" />
+      <module name="Recipes.Topics-HashMap-The_same_pairs.main" target="11" />
+      <module name="Recipes.Topics-HashMap-Theory.main" target="11" />
+      <module name="Recipes.Topics-LocalDate-2_weeks_after.main" target="11" />
+      <module name="Recipes.Topics-LocalDate-Theory.main" target="11" />
+      <module name="Recipes.Topics-LocalDateTime-Add_11_hours_and_print_the_date.main" target="11" />
+      <module name="Recipes.Topics-LocalDateTime-Theory.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-LocalTime_constants.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Return_time_without_seconds.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Same_time.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Seconds_since_start_of_a_day.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Theory.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Working_with_time.main" target="11" />
+      <module name="Recipes.Topics-Optional-Check_an_Optional_value.main" target="11" />
+      <module name="Recipes.Topics-Optional-Create_an_Optional_value.main" target="11" />
+      <module name="Recipes.Topics-Optional-Sum_up_optional_values.main" target="11" />
+      <module name="Recipes.Topics-Optional-The_address_book.main" target="11" />
+      <module name="Recipes.Topics-Optional-Theory.main" target="11" />
+      <module name="Recipes.Topics-Package-Binary_search.main" target="11" />
+      <module name="Recipes.Topics-Package-Getting_input.main" target="11" />
+      <module name="Recipes.Topics-Package-Theory.main" target="11" />
+      <module name="Recipes.Topics-Standard_functional_interfaces-An_infinite_numbers_supplier.main" target="11" />
+      <module name="Recipes.Topics-Standard_functional_interfaces-Ternary_operator.main" target="11" />
+      <module name="Recipes.Topics-Standard_functional_interfaces-Theory.main" target="11" />
+      <module name="Recipes.Topics-The_Map_interface-Counting_words.main" target="11" />
+      <module name="Recipes.Topics-The_Map_interface-Kidnapper_of_Ice_cream.main" target="11" />
+      <module name="Recipes.Topics-The_Map_interface-Modifying_a_map.main" target="11" />
+      <module name="Recipes.Topics-The_Map_interface-Theory.main" target="11" />
+      <module name="Recipes.Topics-The_Map_interface-Tricky_sub-maps.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Multiple_swaps.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Non-existing_methods.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Theory.main" target="11" />
+      <module name="Recipes.Topics-Thread_management-Ordering_the_execution_of_threads.main" target="11" />
+      <module name="Recipes.Topics-Thread_management-Theory.main" target="11" />
+      <module name="Recipes.Topics-Thread_synchronization-Theory.main" target="11" />
+      <module name="Recipes.Topics-Thread_synchronization-Thread-safe_account.main" target="11" />
+      <module name="Recipes.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
+      <module name="Recipes.Topics-Threads_as_objects-Theory.main" target="11" />
+      <module name="Recipes.Topics-toString__-Theory.main" target="11" />
+      <module name="Recipes.Topics-toString__-Users_as_strings.main" target="11" />
+      <module name="Recipes.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

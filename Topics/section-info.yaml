@@ -1,0 +1,20 @@
+content:
+- Package
+- toString()
+- Threads as objects
+- Custom threads
+- Thread management
+- Thread synchronization
+- The Map interface
+- Exception handling
+- HashMap
+- Anonymous classes
+- Default methods
+- Generic methods
+- Standard functional interfaces
+- Optional
+- LocalTime
+- LocalDate
+- LocalDateTime
+- The utility class Collections
+- Builder

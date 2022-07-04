@@ -1,0 +1,99 @@
+# Project exclude paths
+/.gradle/
+/Recipes/task/build/
+/Recipes/task/out/
+/Recipes/task/out/production/classes/
+/Topics/Exception handling/Four status codes/build/
+/Topics/Exception handling/Four status codes/out/
+/Topics/Exception handling/Improve the program/build/
+/Topics/Exception handling/Improve the program/out/production/classes/
+/Topics/Exception handling/Theory/out/
+/Topics/Exception handling/Theory/out/production/classes/
+/Topics/Generic methods/Check for null/out/
+/Topics/Generic methods/Check for null/out/production/classes/
+/Topics/Generic methods/Invert an array/out/
+/Topics/Generic methods/Invert an array/out/production/classes/
+/Topics/Generic methods/Theory/out/
+/Topics/Generic methods/Theory/out/production/classes/
+/Topics/HashMap/The same pairs/out/
+/Topics/HashMap/The same pairs/out/production/classes/
+/Topics/HashMap/Theory/out/
+/Topics/HashMap/Theory/out/production/classes/
+/Topics/LocalDate/2 weeks after/out/
+/Topics/LocalDate/2 weeks after/out/production/classes/
+/Topics/LocalDate/Theory/out/
+/Topics/LocalDate/Theory/out/production/classes/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/production/classes/
+/Topics/LocalDateTime/Theory/out/
+/Topics/LocalDateTime/Theory/out/production/classes/
+/Topics/LocalTime/LocalTime constants/out/
+/Topics/LocalTime/LocalTime constants/out/production/classes/
+/Topics/LocalTime/Return time without seconds/out/
+/Topics/LocalTime/Return time without seconds/out/production/classes/
+/Topics/LocalTime/Same time/out/
+/Topics/LocalTime/Same time/out/production/classes/
+/Topics/LocalTime/Seconds since start of a day/out/
+/Topics/LocalTime/Seconds since start of a day/out/production/classes/
+/Topics/LocalTime/Theory/out/
+/Topics/LocalTime/Theory/out/production/classes/
+/Topics/LocalTime/Working with time/out/
+/Topics/LocalTime/Working with time/out/production/classes/
+/Topics/Optional/Check an Optional value/out/
+/Topics/Optional/Check an Optional value/out/production/classes/
+/Topics/Optional/Create an Optional value/out/
+/Topics/Optional/Create an Optional value/out/production/classes/
+/Topics/Optional/Sum up optional values/out/
+/Topics/Optional/Sum up optional values/out/production/classes/
+/Topics/Optional/The address book/out/
+/Topics/Optional/The address book/out/production/classes/
+/Topics/Optional/Theory/out/
+/Topics/Optional/Theory/out/production/classes/
+/Topics/Package/Binary search/out/
+/Topics/Package/Binary search/out/production/classes/
+/Topics/Package/Getting input/out/
+/Topics/Package/Getting input/out/production/classes/
+/Topics/Package/Theory/out/
+/Topics/Package/Theory/out/production/classes/
+/Topics/Standard functional interfaces/An infinite numbers supplier/out/
+/Topics/Standard functional interfaces/An infinite numbers supplier/out/production/classes/
+/Topics/Standard functional interfaces/Ternary operator/out/
+/Topics/Standard functional interfaces/Ternary operator/out/production/classes/
+/Topics/Standard functional interfaces/Theory/out/
+/Topics/Standard functional interfaces/Theory/out/production/classes/
+/Topics/The Map interface/Counting words/out/
+/Topics/The Map interface/Counting words/out/production/classes/
+/Topics/The Map interface/Kidnapper of Ice cream/out/
+/Topics/The Map interface/Kidnapper of Ice cream/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Map interface/Tricky sub-maps/out/
+/Topics/The Map interface/Tricky sub-maps/out/production/classes/
+/Topics/The utility class Collections/Frequency of characters/out/
+/Topics/The utility class Collections/Frequency of characters/out/production/classes/
+/Topics/The utility class Collections/Multiple swaps/out/
+/Topics/The utility class Collections/Multiple swaps/out/production/classes/
+/Topics/The utility class Collections/Non-existing methods/out/
+/Topics/The utility class Collections/Non-existing methods/out/production/classes/
+/Topics/The utility class Collections/The first index of a sublist/out/
+/Topics/The utility class Collections/The first index of a sublist/out/production/classes/
+/Topics/The utility class Collections/Theory/out/
+/Topics/The utility class Collections/Theory/out/production/classes/
+/Topics/Thread management/Ordering the execution of threads/out/
+/Topics/Thread management/Ordering the execution of threads/out/production/classes/
+/Topics/Thread management/Theory/out/
+/Topics/Thread management/Theory/out/production/classes/
+/Topics/Thread synchronization/Theory/out/
+/Topics/Thread synchronization/Theory/out/production/classes/
+/Topics/Thread synchronization/Thread-safe account/out/
+/Topics/Thread synchronization/Thread-safe account/out/production/classes/
+/Topics/Threads as objects/Getting current thread info/out/
+/Topics/Threads as objects/Getting current thread info/out/production/classes/
+/Topics/Threads as objects/Theory/out/
+/Topics/Threads as objects/Theory/out/production/classes/
+/Topics/toString()/Theory/out/
+/Topics/toString()/Theory/out/production/classes/
+/Topics/toString()/Users as strings/out/
+/Topics/toString()/Users as strings/out/production/classes/
